@@ -17,6 +17,7 @@ You may need to add JavaScript and HTML tags to each page to complete the assign
 ## Contact
 
 Author: robert.mccreary@codex.academy
+Author: lexius.waltar@codex.academy
 
 ## Acknowledgements
 
